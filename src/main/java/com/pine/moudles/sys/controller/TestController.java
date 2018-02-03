@@ -9,9 +9,9 @@ import org.springframework.web.bind.annotation.ResponseBody;
  */
 @Controller
 public class TestController {
-    @RequestMapping(value = "/admin")
+    @RequestMapping("/index")
     @ResponseBody
     public String testSpring(){
-        return "My testSpring";
+        return "springmvc+mybatisplus";
     }
 }
