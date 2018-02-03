@@ -41,6 +41,7 @@
             <value>
                 /static/** = anon
                 /login = anon
+                /index = anon
                 /validateCode = anon
                 /** = authc
             </value>
