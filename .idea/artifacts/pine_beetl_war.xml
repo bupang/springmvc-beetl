@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="pine-beetl:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="beetl-spring-mvc.war">
+      <element id="artifact" artifact-name="pine-beetl:war exploded" />
+    </root>
+  </artifact>
+</component>

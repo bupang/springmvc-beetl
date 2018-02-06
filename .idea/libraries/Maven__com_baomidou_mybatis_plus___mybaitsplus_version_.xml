@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.baomidou:mybatis-plus:${mybaitsplus.version}">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.m2/repository/com/baomidou/mybatis-plus/${mybaitsplus.version}/mybatis-plus-${mybaitsplus.version}.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.m2/repository/com/baomidou/mybatis-plus/${mybaitsplus.version}/mybatis-plus-${mybaitsplus.version}-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.m2/repository/com/baomidou/mybatis-plus/${mybaitsplus.version}/mybatis-plus-${mybaitsplus.version}-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
